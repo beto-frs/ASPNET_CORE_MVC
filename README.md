@@ -1,4 +1,4 @@
-<img src="D:\PROJETOS\C#\M-V-C\Model-View-Controller\wwwroot\img\img.png" alt="logo" style="zoom:60%;" />
+<img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/img.png" alt="logo" style="zoom:60%;" />
 
 ### **Padrão Arquitetural MVC ( Model - View - Controller )**
 
@@ -73,19 +73,23 @@ add-migration CriacaoBD
 
 ------
 
-#### Inicial				 <img src="D:\PROJETOS\C#\M-V-C\Model-View-Controller\wwwroot\img\Index.png" style="zoom:50%;" />
+#### Inicial				 
+<img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/Index.png" style="zoom:50%;" />
 
 ------
 
-#### Cadastro			<img src="D:\PROJETOS\C#\M-V-C\Model-View-Controller\wwwroot\img\Inclusao.png" style="zoom:50%;" />
+### Cadastro			
+<img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/Inclusao.png" style="zoom:50%;" />
 
 ------
 
-#### Atualizar			 <img src="D:\PROJETOS\C#\M-V-C\Model-View-Controller\wwwroot\img\Atualizar.png" style="zoom:50%;" />
+#### Atualizar			 
+<img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/Atualizar.png" style="zoom:50%;" />
 
 ------
 
-#### Apagar				 <img src="D:\PROJETOS\C#\M-V-C\Model-View-Controller\wwwroot\img\Apagar.png" style="zoom:50%;" />
+#### Apagar				 
+<img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/Apagar.png" style="zoom:50%;" />
 
 
 
