@@ -78,7 +78,7 @@ add-migration CriacaoBD
 
 ------
 
-### Cadastro			
+#### Cadastro			
 <img src="https://github.com/beto-frs/ASPNET_CORE_MVC/blob/master/Model-View-Controller/wwwroot/img/Inclusao.png" style="zoom:50%;" />
 
 ------
